@@ -53,4 +53,4 @@ src="https://img.shields.io/twitch/status/Pavelpsiho?logo=twitchsx&style=for-the
 
 <a href="https://www.buymeacoffee.com/pavelpsiho"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-![](https://yandex.ru/images/search?pos=31&from=tabbar&img_url=https%3A%2F%2Fsun1-28.userapi.com%2FEl-TCuMRyRgLAP8CDsop0ZVXS_eccPliIlkrMQ%2FZkq3Ptj9CGg.jpg&text=%D0%B3%D0%B8%D1%84%D0%BA%D0%B0+%D0%B3%D0%B5%D0%B9%D0%BC%D0%B1%D0%BE%D1%8F+%D0%B0%D0%B4%D0%B2%D0%B0%D0%BD%D1%81&rpt=simage&lr=11184)
+![](https://steamuserimages-a.akamaihd.net/ugc/1010400569440695577/10832A9A11DCD3914D5BDC2CD2834BC5748EB23E/?imw=512&amp;imh=255&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
